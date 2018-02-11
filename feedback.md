@@ -3,6 +3,11 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+Laura, this is an excellent synthesis of your background; also, it's very interesting to read. I'm wondering how this background will be connected to a larger paper, which is the goal for this week. So I think to the extent that you can write this week on the paper to frame an overall narrative for the piece. I'm curious about how you might take this beyond reporting what you have read to a interesting report on what the story is. I think your writing is hinting at some overarching narrative, but thinking through that this week will be good to set you up to complete the paper. Great work. Here's the link to the paper that you requested: https://www.dropbox.com/s/r8939dq8y570hi5/1.14682.pdf?dl=0
+
+
 ## Assignment 3
 
 Laura, you are doing a great job reading these papers and summarizing them. I do really appreciate how you are starting to form your paper and the way you intend to layout the arguments. You will get to try that on next week in a detailed summary across the papers. So, great work. To anderrs your question about a modern variation, I might suggest that you look into how Maxwell's equations are consistent with special relativity. There's a few thought experiments, moving lines of charge that might be useful there. You can start by reading the last Chapter of Griffith's; there's some references to AJP articles in that chapter that might help you along the way. Great job.
