@@ -7,6 +7,7 @@ In this file, I will compile your feedback (and grade) for your project homework
 
 Laura, this is an excellent synthesis of your background; also, it's very interesting to read. I'm wondering how this background will be connected to a larger paper, which is the goal for this week. So I think to the extent that you can write this week on the paper to frame an overall narrative for the piece. I'm curious about how you might take this beyond reporting what you have read to a interesting report on what the story is. I think your writing is hinting at some overarching narrative, but thinking through that this week will be good to set you up to complete the paper. Great work. Here's the link to the paper that you requested: https://www.dropbox.com/s/r8939dq8y570hi5/1.14682.pdf?dl=0
 
+* Score: 20/20
 
 ## Assignment 3
 
