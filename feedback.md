@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+Laura, excellent work this week. I can really see how your paper has come together and I apprecaited the discussion at the top of your paper, which provided context for what you were doing. I think that your narrative makes sense and provides an interesting perspective on what we often take from granted (i.e., a complete description of E&M). For next week, I think you just carry on cleaning up and clarifying your points. Great job!
+
+* Score: 20/20
+
 ## Assignment 4
 
 Laura, this is an excellent synthesis of your background; also, it's very interesting to read. I'm wondering how this background will be connected to a larger paper, which is the goal for this week. So I think to the extent that you can write this week on the paper to frame an overall narrative for the piece. I'm curious about how you might take this beyond reporting what you have read to a interesting report on what the story is. I think your writing is hinting at some overarching narrative, but thinking through that this week will be good to set you up to complete the paper. Great work. Here's the link to the paper that you requested: https://www.dropbox.com/s/r8939dq8y570hi5/1.14682.pdf?dl=0
