@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Laura, this is an excellent draft. I think you have only to do some light editing this week to prepare your final draft. Great work over these last six weeks. You have developed an intriguing contribution. In fact, you might consider cleaning it up a bit an submitting it to the Student Journal of Physics (of which I edit the volume).
+
+* Score: 20/20
+
 ## Assignment 5
 
 Laura, excellent work this week. I can really see how your paper has come together and I apprecaited the discussion at the top of your paper, which provided context for what you were doing. I think that your narrative makes sense and provides an interesting perspective on what we often take from granted (i.e., a complete description of E&M). For next week, I think you just carry on cleaning up and clarifying your points. Great job!
